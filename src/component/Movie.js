@@ -1,7 +1,7 @@
 import React from 'react';
 import prototype from 'prop-types';
 import {Link} from 'react-router-dom';
-
+""
 function Movie({title, year, summary, poster}){
     return(
         <Link to={{
